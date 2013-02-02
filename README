@@ -1,4 +1,4 @@
-Gemified and Improved at: [jgandt/ostend](../ostend)
+Gemified and Improved at: @jgandt/ostend
 
 Using this as a mix in we are able to maintain a meaningful class structure while exposing the hash keys as viable and visable methods.
 I had a lot more I wanted to do in my FileCopyTask, and I didn't feel that the objectification logic was correctly placed in my class. 
